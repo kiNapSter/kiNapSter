@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1 align="center"> Hello, I'm Jawad 👋 </h1>
 
-<!--
-**kiNapSter/kiNapSter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center"> <img src="https://pa1.narvii.com/5978/c50418c872032dc846a6af26459acd84a5153e79_hq.gif" alt="funny coding gif" /> </p>
 
-Here are some ideas to get you started:
+- 👀 I'm currently focusing on web and networking
+- 🌱 I’m currently learning Front-end Development
+- 👯 I’m looking to collaborate on WEB Projects
+- 💬 Ask me about Web dev related Stuff
+- ⚡️ Fun fact: I fell in love with my laptop
+- I ❤️ to think, learn, code, and customize everything
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 👨🏽‍🤝‍👨🏼 <b>I love to make friends. so if you want to say hi, I'll be happy to meet you more!</b> 😊
+
+⭐️ From [kiNapSter](https://github.com/kiNapSter)
